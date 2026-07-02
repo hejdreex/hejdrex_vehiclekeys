@@ -5,11 +5,11 @@ Vehicle lock system with **ox_target** and **ox_inventory** item.
 ## Features
 - **Locking/Unlocking** vehicles via ox_target
 - **Vehicle Key item** with unique metadata (plate) per vehicle
-- **Engine control** – key required to start, key goes to ignition
-- **Key transfer** – whoever turns off the engine gets the key
-- **Garage integration** – key given on takeout, removed on store
-- **Client performance** – does **0.00 ms** idle and max. **0.03 ms** when using
-- **Locale support** – English (en) and Czech (cs)
+- **Engine control** - key required to start, key goes to ignition
+- **Key transfer** - whoever turns off the engine gets the key
+- **Garage integration** - key given on takeout, removed on store
+- **Client performance** - does **0.00 ms** idle and max. **0.03 ms** when using
+- **Locale support** - English (en) and Czech (cs)
 
 Showcase Video: **https://www.youtube.com/watch?v=LQBxo0YkP1M**
 
