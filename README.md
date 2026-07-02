@@ -16,7 +16,7 @@ Showcase Video: **https://www.youtube.com/watch?v=LQBxo0YkP1M**
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [ox_target](https://github.com/overextended/ox_target)
 - [ox_inventory](https://github.com/overextended/ox_inventory)
-- [jg-advancedgarages](https://jgscripts.com) (optional but recommended)
+- [jg-advancedgarages](https://jgscripts.com/scripts/advanced-garages) (optional but recommended)
 
 ## Permissions
 Feel free to use my script how ever you want :)
