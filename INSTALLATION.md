@@ -32,7 +32,7 @@ Open your `jg-advancedgarages/config.lua` (or `config-client.lua` depending on y
 If your jg-advancedgarages version uses `framework/cl-functions.lua`, you can add the same lines there:
 
 In the vehicle takeout function:
-TriggerServerEvent('hejdrex_carlock:server:giveKey', plate, VehToNet(vehicle))
+``TriggerServerEvent('hejdrex_carlock:server:giveKey', plate, VehToNet(vehicle))``
 
 In the vehicle store function:
-TriggerServerEvent('hejdrex_carlock:server:removeKey', plate)
+``TriggerServerEvent('hejdrex_carlock:server:removeKey', plate)``
