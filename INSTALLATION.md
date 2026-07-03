@@ -36,3 +36,7 @@ In the vehicle takeout function:
 
 In the vehicle store function:
 ``TriggerServerEvent('hejdrex_carlock:server:removeKey', plate)``
+
+You can ensure both scripts in server or restart whole server via txAdmin/your server manager tool (recommended)
+
+**DONE**, you have now installed vehicle keys into your server.
