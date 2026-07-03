@@ -23,10 +23,10 @@ This is the most important step. You need to add **2 lines** to your jg-advanced
 Open your `jg-advancedgarages/config.lua` (or `config-client.lua` depending on your version).
 
 **Find the takeout/spawn vehicle hook** (usually called `CustomTakeoutCode`, `OnVehicleTakeout`, or similar) and add:
-TriggerServerEvent('hejdrex_carlock:server:giveKey', plate, VehToNet(vehicle))
+``TriggerServerEvent('hejdrex_carlock:server:giveKey', plate, VehToNet(vehicle))``
 
 **Find the store/insert vehicle hook** (usually called `CustomInsertCode`, `OnVehicleStore`, or similar) and add:
-TriggerServerEvent('hejdrex_carlock:server:removeKey', plate)
+``TriggerServerEvent('hejdrex_carlock:server:removeKey', plate)``
 
 #### Option B: Framework Functions
 If your jg-advancedgarages version uses `framework/cl-functions.lua`, you can add the same lines there:
