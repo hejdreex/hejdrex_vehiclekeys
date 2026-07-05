@@ -237,7 +237,7 @@ end)
 
 RegisterKeyMapping('hejdrex_engine', L('toggle_engine'), 'keyboard', Config.EngineKey)
 
-RegisterCommand('hejdrex_engine', function()
+RegisterCommand('engine', function()
     local ped = PlayerPedId()
     if not IsPedInAnyVehicle(ped, false) then return end
 
