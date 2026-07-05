@@ -24,4 +24,4 @@ Showcase Video: **https://www.youtube.com/watch?v=LQBxo0YkP1M**
 Feel free to use my script how ever you want :)
 
 ## Support
-If you need any help, or have any questions contact me on Discord @hejdrex
+If you need any help, or have any questions contact me on Discord `@hejdrex`
