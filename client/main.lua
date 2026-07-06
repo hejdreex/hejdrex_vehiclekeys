@@ -235,7 +235,7 @@ CreateThread(function()
 end)
 
 
-RegisterKeyMapping('hejdrex_engine', L('toggle_engine'), 'keyboard', Config.EngineKey)
+RegisterKeyMapping('engine', L('toggle_engine'), 'keyboard', Config.EngineKey)
 
 RegisterCommand('engine', function()
     local ped = PlayerPedId()
