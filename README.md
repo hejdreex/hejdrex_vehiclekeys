@@ -1,6 +1,9 @@
 # hejdrex_vehiclekeys
 [![](https://cdn.fusiora.com/resources/file_6a47891ec6ac35.95620233.png)](https://www.youtube.com/watch?v=LQBxo0YkP1M)
 
+> [!IMPORTANT]
+> If your server does not support this release, try **[Latest Release]([https://github.com/noobsystems/evidences/wiki](https://github.com/hejdreex/hejdrex_vehiclekeys/releases/tag/1.0.1))**.
+
 Vehicle lock system with **ox_target** and **ox_inventory** item.
 
 ## Features
