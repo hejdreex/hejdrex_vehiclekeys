@@ -14,6 +14,9 @@ Vehicle lock system with **ox_target** and **ox_inventory** item.
 
 Showcase Video: **https://www.youtube.com/watch?v=LQBxo0YkP1M**
 
+## Controls
+**`G (/engine)`** - Engine start/stop
+
 ## Dependencies
 - [ox_lib](https://github.com/overextended/ox_lib)
 - [ox_target](https://github.com/overextended/ox_target)
